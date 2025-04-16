@@ -6,4 +6,5 @@ public class UserRegistration {
     //new features added
 
     //feature1
+    //adding new feature
 }
